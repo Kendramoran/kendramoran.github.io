@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>My Webpage</title> 
+            <style> 
+                h1 {
+                    color:rgb(240, 115, 240);
+                    }
+                #scratchlink {
+                    color:rgb(9, 173, 143);
+                }
+                #artlink { 
+                    color:rgb(240, 135, 14);
+                }
+                #my-poem {
+                    color:rgb(9, 173, 9);
+                }
+                
+                </style>
+    </head>
+    <body>
+    <h1>My Webpage </h1>
+    <p id="my-poem">Hi, I'm Kendra.<br>
+     I came out of a placenta.<br>
+     I can be kind of extra.<br>
+     </p>
+     <p id="my-poem">As you can see I'm kind of funny,<br>
+     I might as well make some money.<br>
+     
+    </p>
+    <p>
+    Greetings! My name is Kendra and this is my webpage. I'm a freshman in a big highschool and I'm really shy but I'm kind (if you don't get on my nerves) and I have a lot of friends. I like to draw and write poems on my free time and I also like to listen to lots of music and just dance. </p>
+    <p> As I said, drawing and poetry is my passion but I wouldn't want it to be my career. I hope that I become something in the future that will allow me to have enough money to raise my kids successfully and give money to my family.[<em>The poem at the top is just a little something that I wrote</em>].</p>
+    <a href="https://scratch.mit.edu/users/kendram_aup/" id="scratchlink">MY SCRATCH PAGE</a>---check out some of my games/projects.<br>
+    
+    <a href="https://www.khanacademy.org/computer-programming/different-shapes/6392992746536960" id="artlink">Check out My project/Art </a>
+     </body>
+    
+</html>
